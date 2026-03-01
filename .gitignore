@@ -1,0 +1,23 @@
+# build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# output files
+pi.txt
+
+# linux binary
+pi
+
+# ide / editor
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
